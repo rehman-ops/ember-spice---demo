@@ -1,0 +1,6 @@
+{
+  "name": "Ember & Spice Sargodha | Restaurant, BBQ & Family Dining",
+  "description": "Ember & Spice is a modern restaurant in Sargodha serving Pakistani cuisine, BBQ, burgers, pasta, desserts and more. View our menu, reserve a table or order now.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
